@@ -14,6 +14,41 @@
 - **User Authentication:** Smooth login and sign-up experience.
 - **Responsive Design:** Optimized for multiple screen sizes.
 
+
+
+### **Primary Pages**
+| Page                    | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Displays all available properties with images, price, location, and filter options. |
+| **Listing Detailed View** | Shows detailed property information: description, amenities, reviews, and booking button. |
+| **Simple Checkout View**  | Provides booking confirmation, pricing breakdown, and payment integration. |
+
+
+
+### **Importance of a User-Friendly Design**
+A user-friendly design is essential for a booking system because it:
+- Reduces friction in the booking process, leading to higher conversions.
+- Enhances user trust and satisfaction through intuitive navigation.
+- Minimizes errors by providing clear forms and validation.
+- Improves accessibility, ensuring all users can easily interact with the system.
+
+
+## UI/UX Design Planning
+
+### **Design Goals**
+- Create an intuitive and seamless experience for users.
+- Ensure responsiveness across devices (desktop, tablet, mobile).
+- Provide clear navigation and consistent visual hierarchy.
+- Maintain fast load times and accessibility compliance (WCAG standards).
+- Use a clean and minimalistic design aligned with modern UI trends.
+
+### **Key Features**
+- **Search and Filter:** Users can search for properties and apply filters (price, location, amenities).
+- **High-Quality Images:** Display visually appealing images for each property.
+- **Easy Booking Process:** Simple and quick steps to book a property.
+- **User Authentication:** Smooth login and sign-up experience.
+- **Responsive Design:** Optimized for multiple screen sizes.
+
 ---
 
 ### **Primary Pages**
@@ -23,11 +58,37 @@
 | **Listing Detailed View** | Shows detailed property information: description, amenities, reviews, and booking button. |
 | **Simple Checkout View**  | Provides booking confirmation, pricing breakdown, and payment integration. |
 
----
 
-### **Importance of a User-Friendly Design**
-A user-friendly design is essential for a booking system because it:
-- Reduces friction in the booking process, leading to higher conversions.
-- Enhances user trust and satisfaction through intuitive navigation.
-- Minimizes errors by providing clear forms and validation.
-- Improves accessibility, ensuring all users can easily interact with the system.
+
+### **Figma Design Properties**
+
+#### **Color Styles**
+- **Primary Color:** `#FF5A5F` (Airbnb Red)
+- **Secondary Color:** `#484848` (Dark Gray)
+- **Background:** `#FFFFFF` (White)
+- **Accent Color:** `#00A699` (Teal)
+- **Text Color:** `#333333` (Dark Text)
+
+#### **Typography**
+- **Font Family:** `Roboto` (or `Inter` for modern UI)
+- **Font Weights:**  
+  - **Heading:** Bold (700)  
+  - **Subheading:** Semi-Bold (600)  
+  - **Body Text:** Regular (400)
+- **Font Sizes:**  
+  - **Heading 1 (H1):** 32px  
+  - **Heading 2 (H2):** 24px  
+  - **Body Text:** 16px  
+  - **Small Text:** 14px
+
+
+
+### **Why Identifying Design Properties is Important**
+Identifying design properties such as color styles, typography, and spacing is crucial because:
+- **Consistency:** Maintains uniformity across all screens for a cohesive user experience.
+- **Brand Identity:** Reinforces brand recognition through consistent colors and fonts.
+- **Efficiency:** Speeds up the design-to-development process with clear guidelines.
+- **Accessibility:** Ensures readability and proper contrast for users with visual impairments.
+- **Scalability:** Makes it easy to apply changes globally without redesigning from scratch.
+
+
